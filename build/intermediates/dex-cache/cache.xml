@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\temp\RemoteCamera2\app\libs\lcrypto-jdk16-146-20110415.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8484016001b228363616aeadfcdf22e4c70a64ef">
+        <dex dex="C:\temp\RemoteCamera2\app\build\intermediates\pre-dexed\debug\lcrypto-jdk16-146-20110415-409e5fd45ef0453e707a566da56c20c1cb05d518.jar" />
+    </item>
+    <item
+        jar="C:\temp\RemoteCamera2\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\temp\RemoteCamera2\app\build\intermediates\pre-dexed\debug\additionnal-74d4c6595a274b11da218beaed452b5578e2f6e4.jar" />
+    </item>
+    <item
+        jar="C:\temp\RemoteCamera2\app\libs\gson-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="C:\temp\RemoteCamera2\app\build\intermediates\pre-dexed\debug\gson-2.2.2-01e3fac82ac93fd7a6dd8c038ca9eedb2c6f55f5.jar" />
+    </item>
+    <item
+        jar="C:\temp\RemoteCamera2\app\libs\mobileservices-1.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="05256fe74267778c6144d820498018c114e67ebd">
+        <dex dex="C:\temp\RemoteCamera2\app\build\intermediates\pre-dexed\debug\mobileservices-1.0.1-a3a9039639917596383e05ffbca3322cf0b38a9f.jar" />
+    </item>
+    <item
+        jar="C:\temp\RemoteCamera2\app\libs\guava-17.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\temp\RemoteCamera2\app\build\intermediates\pre-dexed\debug\guava-17.0-ec759e2945c0019c9ff93166b57c67bec76d3951.jar" />
+    </item>
+    <item
+        jar="C:\temp\RemoteCamera2\app\libs\activation.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\temp\RemoteCamera2\app\build\intermediates\pre-dexed\debug\activation-9ce2693f38acb01b3c240962600dd6307c183e7e.jar" />
+    </item>
+
+</items>

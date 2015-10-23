@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lcrypto-jdk16-146-20110415">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/lcrypto-jdk16-146-20110415.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

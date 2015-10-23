@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/temp/RemoteCamera2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">見守り君</string>
+    <string name="hello">Hello World, CameraActivity!</string>
+</resources>
